@@ -130,6 +130,7 @@ O CineMania é uma aplicação web que oferece aos usuários um vasto catálogo 
 - [JavaScript](#)
 - [API TMDB](https://www.themoviedb.org/)
 - [envio de emails com FormSpree](#)
+- 
 
 # Equipe de Desenvolvimento
 
